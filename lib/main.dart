@@ -32,9 +32,9 @@ class _HomePageState extends State<HomePage> {
     'assets/images/point_img01',
   ];
   var textList = [
-    '제발나와라',
-    '왜안ㄴㅏ와',
-    '나와라ㅏㅏㅏ',
+    '1',
+    '2',
+    '3',
   ];
 
   // 탭을 이동할 때 쓸 변수
@@ -474,7 +474,7 @@ class _HomePageState extends State<HomePage> {
                                 height: 24.0,
                               ),
 
-                              // 리스트뷰 빌더,,,왜 안나오지;;
+                              // 리스트뷰 빌더,,,;;
                               // ListView.builder(
                               //     itemCount: titleList.length,
                               //     itemBuilder: (context, index) {

@@ -951,24 +951,3 @@ class _ProductDetailState extends State<ProductDetail> {
     );
   }
 }
-
-// bottomNavigationBar: Material(
-// color: const Color(0xffff8906),
-// child: InkWell(
-// onTap: () {
-// //print('called on tap');
-// },
-// child: const SizedBox(
-// height: kToolbarHeight,
-// width: double.infinity,
-// child: Center(
-// child: Text(
-// 'Bottom Button',
-// style: TextStyle(
-// fontWeight: FontWeight.bold,
-// ),
-// ),
-// ),
-// ),
-// ),
-// ),
